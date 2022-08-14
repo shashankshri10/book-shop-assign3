@@ -2,7 +2,7 @@
   "name": "book-shop-assign3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shashankshri10.github.io",
+  "homepage": "https://shashankshri10.github.io/",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
