@@ -80,3 +80,6 @@
     padding: 0.1rem 0.2rem 0.5rem 0.2rem; 
     z-index: 1;
 }
+.bsbCardbutton button:hover{
+    background-color: blueviolet;
+}
