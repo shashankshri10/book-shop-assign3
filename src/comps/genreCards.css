@@ -1,0 +1,82 @@
+
+.bsbCardrow{
+    display: flex; 
+    flex-flow: row wrap; 
+    justify-content: space-between;
+    margin: auto;  
+    max-width: 95%;
+    padding: 0.5rem 1rem 0.5rem 1 rem;
+    align-items: center;
+}
+.bsbCard{
+    height: auto;
+    display: flex;
+    flex-flow: column nowrap;
+    border: 0rem dashes black; 
+    border-radius: 2rem;
+    max-width: 45%;
+    min-height: 30rem;
+    transition: border 0.5s;
+    margin: 0.5rem; 
+    background-color: #45caf733;
+}
+@media screen and (max-width: 600px) {
+    .bsbCard{
+        max-width: 100%;
+    }
+}
+.bsbCard:hover{
+    border: 0.1rem dashed darkgoldenrod;
+    background-color: rgba(255, 235, 205, 0.5);
+    border-radius: 2rem;
+}
+.bsbCardtitle{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: nowrap;
+    font-family: 'Trispace', sans-serif;
+    font-size: 2vw;
+    padding: 1rem 0.5rem 0.75rem 0.5rem; 
+    border: 0.2rem; 
+}
+.bsbCard > img{
+    min-width: 40%;
+    max-width: 70%;
+    align-self: center;
+    border-radius: 0rem;
+    
+    transition: border-radius 0.5s; 
+}
+.bsbCard > img:hover{
+    
+    border-radius: 1rem;
+}
+.bsbCard > article{
+    align-self: center;
+    padding: 1rem 0.5rem 0.75rem 0.5rem; 
+    border: 0.2rem; 
+    font-family: 'Trispace', sans-serif;
+    font-size: 1.5vw;
+    text-align: center;
+}
+
+
+.bsbCardbutton{
+    justify-self: auto;
+    display: flex;
+    justify-content: center;
+    align-content: flex-end;
+    color: black;
+    font-size: 3.5vw; 
+}
+.bsbCardbutton button{
+    background-color: rgba(95,158,60,0.2);
+    font-family: 'Trispace', sans-serif;
+    font-size: 2.5vw; 
+    width:20rem; 
+    height:5rem;
+    margin-bottom: 0.5rem;
+    padding: 0.1rem 0.2rem 0.5rem 0.2rem; 
+    z-index: 1;
+}

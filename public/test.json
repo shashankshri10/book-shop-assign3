@@ -1,0 +1,698 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 200,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "hVkJc2IRDdcC",
+        "etag": "cC7EOIhP8GQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/hVkJc2IRDdcC",
+        "volumeInfo": {
+          "title": "Convex Analysis and Global Optimization",
+          "authors": [
+            "Hoang Tuy"
+          ],
+          "publisher": "Springer Science & Business Media",
+          "publishedDate": "1998-01-31",
+          "description": "Due to the general complementary convex structure underlying most nonconvex optimization problems encountered in applications, convex analysis plays an essential role in the development of global optimization methods. This book develops a coherent and rigorous theory of deterministic global optimization from this point of view. Part I constitutes an introduction to convex analysis, with an emphasis on concepts, properties and results particularly needed for global optimization, including those pertaining to the complementary convex structure. Part II presents the foundation and application of global search principles such as partitioning and cutting, outer and inner approximation, and decomposition to general global optimization problems and to problems with a low-rank nonconvex structure as well as quadratic problems. Much new material is offered, aside from a rigorous mathematical development. Audience: The book is written as a text for graduate students in engineering, mathematics, operations research, computer science and other disciplines dealing with optimization theory. It is also addressed to all scientists in various fields who are interested in mathematical optimization.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "0792348184"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9780792348184"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 339,
+          "printType": "BOOK",
+          "categories": [
+            "Business & Economics"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.1.2.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=hVkJc2IRDdcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=hVkJc2IRDdcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=hVkJc2IRDdcC&printsec=frontcover&dq=subject:business&hl=&cd=1&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=hVkJc2IRDdcC&dq=subject:business&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Convex_Analysis_and_Global_Optimization.html?hl=&id=hVkJc2IRDdcC"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Convex_Analysis_and_Global_Optimization-sample-pdf.acsm?id=hVkJc2IRDdcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=hVkJc2IRDdcC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "6d4wAQAAMAAJ",
+        "etag": "T82XDbTTgtg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/6d4wAQAAMAAJ",
+        "volumeInfo": {
+          "title": "Hand-books for Home Improvement",
+          "subtitle": "Comprising, how to Write, how to Talk, how to Behave, how to Do Business",
+          "publishedDate": "1857",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "MINN:31951002074468L"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "printType": "BOOK",
+          "categories": [
+            "Business"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.3.3.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=6d4wAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=6d4wAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=6d4wAQAAMAAJ&printsec=frontcover&dq=subject:business&hl=&cd=2&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=6d4wAQAAMAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6d4wAQAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=6d4wAQAAMAAJ&rdid=book-6d4wAQAAMAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.co.in/books/download/Hand_books_for_Home_Improvement.epub?id=6d4wAQAAMAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.co.in/books/download/Hand_books_for_Home_Improvement.pdf?id=6d4wAQAAMAAJ&hl=&output=pdf&sig=ACfU3U0Rekc1erJJV1FyWp1U_lskyjRWuA&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=6d4wAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "-lntsgEACAAJ",
+        "etag": "z48jKjIda4s",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/-lntsgEACAAJ",
+        "volumeInfo": {
+          "title": "Microsoft OneNote 2016 Step by Step",
+          "authors": [
+            "Chris Leeds",
+            "Curtis Frye"
+          ],
+          "publishedDate": "2016-02-12",
+          "description": "The quick way to learn Microsoft OneNote! This is learning made easy. Get productive fast with OneNote and jump in wherever you need answers. Brisk lessons and colorful screenshots show you exactly what to do, step by step--and practice files help you build your skills. Access local and online OneNote notebooks from any device Create notes that include handwriting, drawings, screen clips, audio clips, video clips, and structured equations Revise, reorganize, flag, format, search, and share your notes Customize OneNote for the way you like to work Get more done by integrating OneNote with Microsoft Word, Excel, and Outlook Share notes by using email, Microsoft OneDrive, and SharePoint Look up just the tasks and lessons you need",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "0735697817"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9780735697812"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 320,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=-lntsgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=-lntsgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=-lntsgEACAAJ&dq=subject:business&hl=&cd=3&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=-lntsgEACAAJ&dq=subject:business&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Microsoft_OneNote_2016_Step_by_Step.html?hl=&id=-lntsgEACAAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=-lntsgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "LBZCAAAAIAAJ",
+        "etag": "PGYTZhk01VM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/LBZCAAAAIAAJ",
+        "volumeInfo": {
+          "title": "Classified Guide to Technical and Commercial Books",
+          "subtitle": "A Subject-list of the Principal British and American Works in Print",
+          "publishedDate": "1904",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UCAL:$B64178"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 216,
+          "printType": "BOOK",
+          "categories": [
+            "Business"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.3.4.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=LBZCAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=LBZCAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=LBZCAAAAIAAJ&printsec=frontcover&dq=subject:business&hl=&cd=4&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=LBZCAAAAIAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LBZCAAAAIAAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=LBZCAAAAIAAJ&rdid=book-LBZCAAAAIAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.co.in/books/download/Classified_Guide_to_Technical_and_Commer.epub?id=LBZCAAAAIAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=LBZCAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "KJEBAAAAYAAJ",
+        "etag": "0fMcNSNItUs",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/KJEBAAAAYAAJ",
+        "volumeInfo": {
+          "title": "Simple Method of Keeping Books",
+          "authors": [
+            "George Nixon Comer"
+          ],
+          "publishedDate": "1857",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "HARVARD:32044102871472"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "printType": "BOOK",
+          "categories": [
+            "Bookkeeping"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.3.5.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=KJEBAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=KJEBAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=KJEBAAAAYAAJ&printsec=frontcover&dq=subject:business&hl=&cd=5&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=KJEBAAAAYAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KJEBAAAAYAAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=KJEBAAAAYAAJ&rdid=book-KJEBAAAAYAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.co.in/books/download/Simple_Method_of_Keeping_Books.epub?id=KJEBAAAAYAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.co.in/books/download/Simple_Method_of_Keeping_Books.pdf?id=KJEBAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0rYAknYgg5m7FNUrbjVn839w-Shg&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=KJEBAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "laHuCAAAQBAJ",
+        "etag": "jbljediahaU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/laHuCAAAQBAJ",
+        "volumeInfo": {
+          "title": "Catalogue of Old and Modern Books on Commerce and Finances",
+          "subtitle": "In Which are Incorporated Many Original Editions of the Works of the Leading Authors of Former Centuries",
+          "authors": [
+            "Martinus Nijhoff Publishers"
+          ],
+          "publisher": "Springer",
+          "publishedDate": "2013-11-21",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9789401528504"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "9401528500"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 50,
+          "printType": "BOOK",
+          "categories": [
+            "Business & Economics"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.0.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=laHuCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=laHuCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=laHuCAAAQBAJ&printsec=frontcover&dq=subject:business&hl=&cd=6&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=laHuCAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=laHuCAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 7316,
+            "currencyCode": "INR"
+          },
+          "retailPrice": {
+            "amount": 7316,
+            "currencyCode": "INR"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=laHuCAAAQBAJ&rdid=book-laHuCAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 7316000000,
+                "currencyCode": "INR"
+              },
+              "retailPrice": {
+                "amountInMicros": 7316000000,
+                "currencyCode": "INR"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Catalogue_of_Old_and_Modern_Books_on_Com-sample-pdf.acsm?id=laHuCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=laHuCAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "I2BIAAAACAAJ",
+        "etag": "Zjokv0MvfCA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/I2BIAAAACAAJ",
+        "volumeInfo": {
+          "title": "Best Business Books Ever",
+          "subtitle": "The 100 Most Influential Management Books You'll",
+          "authors": [
+            "Perseus Publishing"
+          ],
+          "publisher": "Turtleback",
+          "publishedDate": "2003-07-01",
+          "description": "This ultimate resource contains digests of the books that have shaped management thinking and practice, from The Art of War to Being Digital.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "0613917219"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9780613917216"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "printType": "BOOK",
+          "categories": [
+            "Business & Economics"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=I2BIAAAACAAJ&dq=subject:business&hl=&cd=7&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=I2BIAAAACAAJ&dq=subject:business&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Best_Business_Books_Ever.html?hl=&id=I2BIAAAACAAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=I2BIAAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "eXHgAAAAMAAJ",
+        "etag": "JQBHBTAYNJA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/eXHgAAAAMAAJ",
+        "volumeInfo": {
+          "title": "Books and Periodicals Online",
+          "subtitle": "A Guide to Publication Contents of Business and Legal Databases",
+          "publishedDate": "1997",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UOM:39015079890953"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 1036,
+          "printType": "BOOK",
+          "categories": [
+            "Business"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "2.2.2.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=eXHgAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=eXHgAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=eXHgAAAAMAAJ&dq=subject:business&hl=&cd=8&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=eXHgAAAAMAAJ&dq=subject:business&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Books_and_Periodicals_Online.html?hl=&id=eXHgAAAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=eXHgAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "FyWZt5DdvFkC",
+        "etag": "VhMsC0xdRIM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/FyWZt5DdvFkC",
+        "volumeInfo": {
+          "title": "Patterns of Enterprise Application Architecture",
+          "authors": [
+            "Martin Fowler",
+            "David Rice"
+          ],
+          "publisher": "Addison-Wesley Professional",
+          "publishedDate": "2003",
+          "description": "A handbook for enterprise system developers guiding them through the intracacies and lessons learned in enterprise application development. Patterns are supported by code examples, in both Java and C#.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "0321127420"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9780321127426"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 533,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "averageRating": 4.5,
+          "ratingsCount": 42,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.1.2.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=FyWZt5DdvFkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=FyWZt5DdvFkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=FyWZt5DdvFkC&dq=subject:business&hl=&cd=9&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=FyWZt5DdvFkC&dq=subject:business&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Patterns_of_Enterprise_Application_Archi.html?hl=&id=FyWZt5DdvFkC"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=FyWZt5DdvFkC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "aeJQi0k8mf8C",
+        "etag": "ymi/wlBqmE4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/aeJQi0k8mf8C",
+        "volumeInfo": {
+          "title": "Basic Geometry of Voting",
+          "authors": [
+            "Donald G. Saari"
+          ],
+          "publisher": "Springer Science & Business Media",
+          "publishedDate": "1995-09-18",
+          "description": "Amazingly, the complexities of voting theory can be explained and resolved with comfortable geometry. A geometry which unifies such seemingly disparate topics as manipulation, monotonicity, and even the apportionment issues of the US Supreme Court. Although directed mainly toward students and others wishing to learn about voting, experts will discover here many previously unpublished results. As an example, a new profile decomposition quickly resolves the age-old controversies of Condorcet and Borda, demonstrates that the rankings of pairwise and other methods differ because they rely on different information, casts serious doubt on the reliability of a Condorcet winner as a standard for the field, makes the famous Arrow's Theorem predictable, and simplifies the construction of examples.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "3540600647"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9783540600640"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 300,
+          "printType": "BOOK",
+          "categories": [
+            "Business & Economics"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.1.2.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=aeJQi0k8mf8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=aeJQi0k8mf8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=aeJQi0k8mf8C&printsec=frontcover&dq=subject:business&hl=&cd=10&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=aeJQi0k8mf8C&dq=subject:business&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Basic_Geometry_of_Voting.html?hl=&id=aeJQi0k8mf8C"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Basic_Geometry_of_Voting-sample-pdf.acsm?id=aeJQi0k8mf8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=aeJQi0k8mf8C&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      }
+    ]
+  }

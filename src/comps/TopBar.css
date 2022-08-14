@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Cinzel+Decorative&family=Edu+SA+Beginner&family=IM+Fell+English+SC&family=Lobster+Two&family=Merienda+One&family=Monoton&family=Press+Start+2P&family=Roboto+Condensed:ital@0;1&family=Rubik+Mono+One&family=Space+Mono&display=swap');
+.navbar{
+    width: 100%;
+    border: 0.01rem solid black;
+    margin-bottom: 0.5rem;
+    background-color: bisque;
+    padding: 0rem 0.4rem 0rem 0.4rem;
+    position: sticky;
+    top: 0.05vh;
+}
+.navbar>ul{
+    
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: left ;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.navbar>ul:nth-child(n){
+    font-size: 4vh;
+    margin-top: 0.5vh;
+    margin-bottom: 0.5vh;
+    padding: 0.5vh;
+}
+
+#sidebar-icon{
+    margin-left: 0.75vw;
+    flex-grow: 1;
+    color: grey;
+}
+#title{
+   
+   flex-grow: 10;
+   align-content: flex-end;
+}
+#title>div{
+    width: 100%;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+}
+#cart{
+    flex-shrink: 1;
+    flex-grow: 1;
+}
+#search-icon{
+    margin-right: 0.5vw;
+    flex-grow: 1;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.Sdbar{
+    background-color: bisque;
+    width: 30vh;
+    height: 100vh;
+    /* display: flex; 
+    justify-content: center;  */
+    align-items: stretch;
+    position: fixed;
+    top: 0;
+    /* right: 100%; */
+    left: -100%;
+    transition: left 0.8s; 
+    transition-timing-function: ease-out;
+}
+.Sdbar.open{
+    left: 0; 
+    transition: left 0.8s; 
+    transition-timing-function: ease-in;
+}
+.sdbar-list{
+    list-style: none;
+    position: relative;
+    top: 10%;
+    left: 5%;
+    font-size: 1.75vw;
+    width: 100%;
+    /* text-align: center; */
+}
+.sdbar-list li{
+    padding: 0.5vh;
+    margin: 0.1vh;
+    
+}
+.sdbar-list li:hover{
+    background-color: burlywood;
+}
+.sdbar-subtitle{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.25vw;
+}
+.close-icon{
+    margin-top: 1vh;
+    font-size: 2.5vmax;
+    width: 96%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    color: darkgray;
+    transition: font-size 0.5s,margin-top 0.5s;
+}
+.close-icon:hover{
+    margin-top: 0.2vh;
+    color: lightgray;
+    font-size: 3vmax;
+    transition: font-size 0.5s,margin-top 0.5s; 
+}
+
+/* .close-icon:first-child{
+    position: relative;
+    left: 80%;
+} */

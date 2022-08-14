@@ -1,24 +1,50 @@
-import logo from './logo.svg';
+import { useState } from 'react'; 
 import './App.css';
 
+import TopBar from './comps/TopBar';
+import {Routes,Route} from 'react-router-dom'; 
+
+import Landingpage from './comps/landingpage';
+
+import GenreCards from './comps/genre';
+import { Genredata } from './comps/Genredata';
+
+
+// const ifHome =()=>{
+//   if (sessionStorage.getItem('leavehomepage')){
+//     return (<></>); 
+//   }
+//   else{
+//     return (
+//       <>
+//         <Landingpage cat="pets"/>
+//       </>); 
+//   }
+// }
+
 function App() {
+  const [pgstate,setpgstate]=useState(0); 
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <TopBar/>
+      {/* <Cart /> */}
+      <Routes>
+      
+      {
+        Genredata.map((el)=>{
+          return(
+            <Route path= {`/genre/${el}`} element={<Landingpage cat={el}/>} />
+          ); 
+        })
+      }
+      </Routes>
+      
+      {/* tag for header bar will go here */}
+      {/* Navbar tag will go here */}
+      {/* Browse genres goes here along with searchbar */}
+
     </div>
+    
   );
 }
 

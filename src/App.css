@@ -1,5 +1,13 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Cinzel+Decorative&family=Edu+SA+Beginner&family=IM+Fell+English+SC&family=Lobster+Two&family=Merienda+One&family=Monoton&family=Press+Start+2P&family=Roboto+Condensed:ital@0;1&family=Rubik+Mono+One&family=Space+Mono&display=swap');
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-color: #f0b1e9ff;
+  color: #a13941ff;
 }
 
 .App-logo {
